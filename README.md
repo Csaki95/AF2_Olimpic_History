@@ -36,9 +36,7 @@ kerüljön.
  A .csproj-ban meg van adva hogy automatikusan bemásolja, de ha valami baj lenne vele a \bin\Debug\netcoreapp3.1\Input mappában nyitja meg a fájlokat.
  
 ### Kimenet
- Futás végén kiírja a console hogy melyik mappába helyezte a kimeneteket, de
-
- Dotnet run esetén a projekt gyökér mappájából az \APHCJW_Olympic_History_1\Output-ba helyezi a kimeneteket
+ Futás végén kiírja a console hogy melyik mappába helyezte a kimeneteket, de Dotnet run esetén a projekt gyökér mappájából az \APHCJW_Olympic_History_1\Output-ba helyezi a kimeneteket
  VS indítás esetén pedig gyökér mappából indulva a \APHCJW_Olympic_History_1\APHCJW_Olympic_History_1\bin\APHCJW_Olympic_History_1\Output-ba fogja helyezni
  
  Dotnetes futás esetén nem akartam a projekten kívülre helyezni semmit, az útvonalakkal pedig nem akartam túlkomplikálni azért néz ki így.
