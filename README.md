@@ -1,4 +1,4 @@
-# Alkfejl II. kötelező program I.
+# Alkfejl II. kötelező program I. (2020)
  Olympic history I.
 
 ## Feladat
