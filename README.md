@@ -32,7 +32,7 @@ kerüljön.
 ## Megvalósítás
 
 ### Bemenet
- !Indításhoz az athletes_fixed.csv-t illetve az athlete_events.csv-t az Input mappába kell rakni! 
+ Indításhoz az athletes_fixed.csv-t illetve az athlete_events.csv-t az Input mappába kell rakni. 
  A .csproj-ban meg van adva hogy automatikusan bemásolja, de ha valami baj lenne vele a \bin\Debug\netcoreapp3.1\Input mappában nyitja meg a fájlokat.
  
 ### Kimenet
