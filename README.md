@@ -3,7 +3,7 @@
 
 ## Feladat
 
-A feladat megadott bemeneti fájlok feldolgozása, majd LINQ segítségével műveletek elvégzése után kimenet generálása egy .csv fájlba.
+A feladat megadott bemeneti fájlok feldolgozása, majd LINQ segítségével végzett műveletek után kimenet generálása .csv fájlokba.
 
 A program célja LINQ, és fájl írás/olvasás műveletek megismerése .NET-ben.
 
